@@ -1,0 +1,17 @@
+syntax = "proto3";  //protobuf3协议
+package pd;
+
+//请求
+message NodeRq {
+    int32 id = 1;
+}
+
+//响应
+message NodeRp {
+    string name = 1;
+}
+
+//服务
+service Node {
+    rpc GetUser(UserRq) returns (UserRp);
+}

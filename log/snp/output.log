@@ -1,0 +1,74 @@
+2020-05-28 17:41:34.844	info	nspserver/bootstart.go:15	info	{"info": "websocket-server-start::8081/ws"}
+2020-05-28 17:41:34.993	info	httpserver/bootstart.go:12	info	{"httpServer": "server start..启动成功 端口::8080"}
+2020-05-28 17:41:34.993	info	nsp/main.go:14	info	{"srv-start": "server start ........."}
+2020-05-28 17:42:04.846	info	log/log.go:76	修改日志等级:  info => debug
+2020-05-28 17:46:34.339	info	nspserver/bootstart.go:15	info	{"info": "websocket-server-start::8081/ws"}
+2020-05-28 17:46:34.386	info	httpserver/bootstart.go:12	info	{"httpServer": "server start..启动成功 端口::8080"}
+2020-05-28 17:46:34.386	info	nsp/main.go:14	info	{"srv-start": "server start ........."}
+2020-05-28 17:46:39.490	info	httpserver/publish.go:15	info	{"data": "sdfasdfasdfasdf"}
+2020-05-28 17:47:04.339	info	log/log.go:76	修改日志等级:  info => debug
+2020-05-28 17:47:23.443	info	httpserver/publish.go:15	info	{"data": "{\n     \"button\":[\n     {\t\n          \"type\":\"view\",\n          \"name\":\"我的设备\",\n          \"url\":\"http://www.dbc19.top/wxroom\"\n      },\n      {\n           \"name\":\"服务中心\",\n           \"sub_button\":[\n           {\t\n               \"type\":\"view\",\n               \"name\":\"公司官网\",\n               \"url\":\"http://www.szmeizhao.com/\"\n            },\n           \n            {\n                    \"type\": \"scancode_push\", \n                    \"name\": \"智能扫一扫\", \n                    \"key\": \"rselfmenu_0_1\", \n                    \"sub_button\": [ ]\n                }\n          ]\n       }]\n }"}
+2020-05-28 17:47:42.750	debug	nspserver/client.go:116	err	{"debug-red-err": "websocket: close 1001 (going away)"}
+2020-05-28 17:51:48.606	info	httpserver/publish.go:15	info	{"data": "{\n     \"button\":[\n     {\t\n          \"type\":\"view\",\n          \"name\":\"我的设备\",\n          \"url\":\"http://www.dbc19.top/wxroom\"\n      },\n      {\n           \"name\":\"服务中心\",\n           \"sub_button\":[\n           {\t\n               \"type\":\"view\",\n               \"name\":\"公司官网\",\n               \"url\":\"http://www.szmeizhao.com/\"\n            },\n           \n            {\n                    \"type\": \"scancode_push\", \n                    \"name\": \"智能扫一扫\", \n                    \"key\": \"rselfmenu_0_1\", \n                    \"sub_button\": [ ]\n                }\n          ]\n       }]\n }"}
+2020-05-28 17:52:00.490	info	httpserver/publish.go:15	info	{"data": "{\n     \"button\":[\n     {\t\n          \"type\":\"view\",\n          \"name\":\"我的设备\",\n          \"url\":\"http://www.dbc19.top/wxroom\"\n      },\n      {\n           \"name\":\"服务中心\",\n           \"sub_button\":[\n           {\t\n               \"type\":\"view\",\n               \"name\":\"公司官网\",\n               \"url\":\"http://www.szmeizhao.com/\"\n            },\n           \n            {\n                    \"type\": \"scancode_push\", \n                    \"name\": \"智能扫一扫\", \n                    \"key\": \"rselfmenu_0_1\", \n                    \"sub_button\": [ ]\n                }\n          ]\n       }]\n }"}
+2020-05-28 17:53:19.947	info	httpserver/publish.go:15	info	{"data": "{\n     \"button\":[\n     {\t\n          \"type\":\"view\",\n          \"name\":\"我的设备\",\n          \"url\":\"http://www.dbc19.top/wxroom\"\n      },\n      {\n           \"name\":\"服务中心\",\n           \"sub_button\":[\n           {\t\n               \"type\":\"view\",\n               \"name\":\"公司官网\",\n               \"url\":\"http://www.szmeizhao.com/\"\n            },\n           \n            {\n                    \"type\": \"scancode_push\", \n                    \"name\": \"智能扫一扫\", \n                    \"key\": \"rselfmenu_0_1\", \n                    \"sub_button\": [ ]\n                }\n          ]\n       }]\n }"}
+2020-05-28 17:53:20.919	info	httpserver/publish.go:15	info	{"data": "{\n     \"button\":[\n     {\t\n          \"type\":\"view\",\n          \"name\":\"我的设备\",\n          \"url\":\"http://www.dbc19.top/wxroom\"\n      },\n      {\n           \"name\":\"服务中心\",\n           \"sub_button\":[\n           {\t\n               \"type\":\"view\",\n               \"name\":\"公司官网\",\n               \"url\":\"http://www.szmeizhao.com/\"\n            },\n           \n            {\n                    \"type\": \"scancode_push\", \n                    \"name\": \"智能扫一扫\", \n                    \"key\": \"rselfmenu_0_1\", \n                    \"sub_button\": [ ]\n                }\n          ]\n       }]\n }"}
+2020-05-28 17:53:21.532	info	httpserver/publish.go:15	info	{"data": "{\n     \"button\":[\n     {\t\n          \"type\":\"view\",\n          \"name\":\"我的设备\",\n          \"url\":\"http://www.dbc19.top/wxroom\"\n      },\n      {\n           \"name\":\"服务中心\",\n           \"sub_button\":[\n           {\t\n               \"type\":\"view\",\n               \"name\":\"公司官网\",\n               \"url\":\"http://www.szmeizhao.com/\"\n            },\n           \n            {\n                    \"type\": \"scancode_push\", \n                    \"name\": \"智能扫一扫\", \n                    \"key\": \"rselfmenu_0_1\", \n                    \"sub_button\": [ ]\n                }\n          ]\n       }]\n }"}
+2020-05-28 17:53:22.079	info	httpserver/publish.go:15	info	{"data": "{\n     \"button\":[\n     {\t\n          \"type\":\"view\",\n          \"name\":\"我的设备\",\n          \"url\":\"http://www.dbc19.top/wxroom\"\n      },\n      {\n           \"name\":\"服务中心\",\n           \"sub_button\":[\n           {\t\n               \"type\":\"view\",\n               \"name\":\"公司官网\",\n               \"url\":\"http://www.szmeizhao.com/\"\n            },\n           \n            {\n                    \"type\": \"scancode_push\", \n                    \"name\": \"智能扫一扫\", \n                    \"key\": \"rselfmenu_0_1\", \n                    \"sub_button\": [ ]\n                }\n          ]\n       }]\n }"}
+2020-05-28 17:53:32.061	info	httpserver/publish.go:15	info	{"data": "{\n     \"button\":[\n     {\t\n          \"type\":\"view\",\n          \"name\":\"我的设备\",\n          \"url\":\"http://www.dbc19.top/wxroom\"\n      },\n      {\n           \"name\":\"服务中心\",\n           \"sub_button\":[\n           {\t\n               \"type\":\"view\",\n               \"name\":\"公司官网\",\n               \"url\":\"http://www.szmeizhao.com/\"\n            },\n           \n            {\n                    \"type\": \"scancode_push\", \n                    \"name\": \"智能扫一扫\", \n                    \"key\": \"rselfmenu_0_1\", \n                    \"sub_button\": [ ]\n                }\n          ]\n       }]\n }"}
+2020-05-28 17:53:32.663	info	httpserver/publish.go:15	info	{"data": "{\n     \"button\":[\n     {\t\n          \"type\":\"view\",\n          \"name\":\"我的设备\",\n          \"url\":\"http://www.dbc19.top/wxroom\"\n      },\n      {\n           \"name\":\"服务中心\",\n           \"sub_button\":[\n           {\t\n               \"type\":\"view\",\n               \"name\":\"公司官网\",\n               \"url\":\"http://www.szmeizhao.com/\"\n            },\n           \n            {\n                    \"type\": \"scancode_push\", \n                    \"name\": \"智能扫一扫\", \n                    \"key\": \"rselfmenu_0_1\", \n                    \"sub_button\": [ ]\n                }\n          ]\n       }]\n }"}
+2020-05-28 18:00:14.266	debug	nspserver/client.go:116	err	{"debug-red-err": "websocket: close 1001 (going away)"}
+2020-05-28 19:03:08.128	info	nspserver/bootstart.go:15	info	{"info": "websocket-server-start::8081/ws"}
+2020-05-28 19:03:08.171	info	httpserver/bootstart.go:12	info	{"httpServer": "server start..启动成功 端口::8080"}
+2020-05-28 19:03:08.172	info	nsp/main.go:14	info	{"srv-start": "server start ........."}
+2020-05-29 17:33:09.486	info	nspserver/bootstart.go:15	info	{"info": "websocket-server-start::8091/ws"}
+2020-05-29 17:33:09.533	info	httpserver/bootstart.go:12	info	{"httpServer": "server start..启动成功 端口::8090"}
+2020-05-29 17:33:09.533	info	nsp/main.go:14	info	{"srv-start": "server start ........."}
+2020-05-29 17:34:44.385	info	nspserver/bootstart.go:15	info	{"info": "websocket-server-start::8091/ws"}
+2020-05-29 17:34:44.433	info	httpserver/bootstart.go:12	info	{"httpServer": "server start..启动成功 端口::8090"}
+2020-05-29 17:34:44.434	info	nsp/main.go:14	info	{"srv-start": "server start ........."}
+2020-05-29 17:34:59.904	info	nspserver/bootstart.go:15	info	{"info": "websocket-server-start::8091/ws"}
+2020-05-29 17:34:59.954	info	httpserver/bootstart.go:12	info	{"httpServer": "server start..启动成功 端口::8090"}
+2020-05-29 17:34:59.955	info	nsp/main.go:14	info	{"srv-start": "server start ........."}
+2020-05-29 17:35:29.904	info	log/log.go:76	修改日志等级:  info => debug
+2020-05-29 17:38:57.766	info	nspserver/bootstart.go:15	info	{"info": "websocket-server-start::8091/ws"}
+2020-05-29 17:38:57.809	info	httpserver/bootstart.go:12	info	{"httpServer": "server start..启动成功 端口::8090"}
+2020-05-29 17:38:57.809	info	nsp/main.go:14	info	{"srv-start": "server start ........."}
+2020-05-29 17:39:16.578	info	nspserver/bootstart.go:15	info	{"info": "websocket-server-start::8091/ws"}
+2020-05-29 17:39:16.619	info	httpserver/bootstart.go:12	info	{"httpServer": "server start..启动成功 端口::8090"}
+2020-05-29 17:39:16.620	info	nsp/main.go:14	info	{"srv-start": "server start ........."}
+2020-05-29 17:39:34.522	info	nspserver/bootstart.go:15	info	{"info": "websocket-server-start::8091/ws"}
+2020-05-29 17:39:34.578	info	httpserver/bootstart.go:12	info	{"httpServer": "server start..启动成功 端口::8090"}
+2020-05-29 17:39:34.579	info	nsp/main.go:14	info	{"srv-start": "server start ........."}
+2020-05-29 17:40:04.523	info	log/log.go:76	修改日志等级:  info => debug
+2020-05-29 17:57:02.562	info	nspserver/bootstart.go:15	info	{"info": "websocket-server-start::8091/ws"}
+2020-05-29 17:57:02.613	info	httpserver/bootstart.go:12	info	{"httpServer": "server start..启动成功 端口::8090"}
+2020-05-29 17:57:02.613	info	nsp/main.go:14	info	{"srv-start": "server start ........."}
+2020-05-29 17:57:32.561	info	log/log.go:76	修改日志等级:  info => debug
+2020-05-29 17:58:02.829	info	httpserver/publish.go:15	info	{"data": ""}
+2020-05-29 17:59:19.932	info	nspserver/bootstart.go:15	info	{"info": "websocket-server-start::8091/ws"}
+2020-05-29 17:59:19.974	info	httpserver/bootstart.go:12	info	{"httpServer": "server start..启动成功 端口::8090"}
+2020-05-29 17:59:19.974	info	nsp/main.go:14	info	{"srv-start": "server start ........."}
+2020-05-29 17:59:49.932	info	log/log.go:76	修改日志等级:  info => debug
+2020-05-29 18:18:42.601	info	nspserver/bootstart.go:15	info	{"info": "websocket-server-start::8091/ws"}
+2020-05-29 18:18:42.642	info	httpserver/bootstart.go:12	info	{"httpServer": "server start..启动成功 端口::8090"}
+2020-05-29 18:18:42.643	info	nsp/main.go:13	info	{"srv-start": "server start ........."}
+2020-05-29 18:19:12.603	info	log/log.go:76	修改日志等级:  info => debug
+2020-05-30 14:41:06.817	info	nspserver/bootstart.go:15	info	{"info": "websocket-server-start::8091/ws"}
+2020-05-30 14:41:06.863	info	httpserver/bootstart.go:12	info	{"httpServer": "server start..启动成功 端口::8090"}
+2020-05-30 14:41:06.864	info	nsp/main.go:12	info	{"srv-start": "server start ........."}
+2020-05-30 14:57:26.327	info	nspserver/bootstart.go:15	info	{"info": "websocket-server-start::8091/ws"}
+2020-05-30 14:57:26.366	info	httpserver/bootstart.go:12	info	{"httpServer": "server start..启动成功 端口::8090"}
+2020-05-30 14:57:26.367	info	nsp/main.go:12	info	{"srv-start": "server start ........."}
+2020-05-30 14:57:56.337	info	log/log.go:76	修改日志等级:  info => debug
+2020-05-30 14:58:27.604	debug	nspserver/client.go:116	err	{"debug-red-err": "websocket: close 1001 (going away)"}
+2020-05-30 14:58:35.947	debug	nspserver/client.go:116	err	{"debug-red-err": "websocket: close 1001 (going away)"}
+2020-05-30 15:10:50.829	info	httpserver/publish.go:15	info	{"data": ""}
+2020-05-30 15:14:24.482	info	httpserver/publish.go:15	info	{"data": ""}
+2020-05-30 15:14:26.144	info	httpserver/publish.go:15	info	{"data": ""}
+2020-05-30 15:16:28.694	info	httpserver/publish.go:15	info	{"data": "{\"name\":\"zhangsan\",\"age\":90,\"addr\":\"我来自深圳\"}"}
+2020-05-30 15:17:19.476	info	nspserver/bootstart.go:15	info	{"info": "websocket-server-start::8091/ws"}
+2020-05-30 15:17:19.526	info	httpserver/bootstart.go:12	info	{"httpServer": "server start..启动成功 端口::8090"}
+2020-05-30 15:17:19.526	info	nsp/main.go:12	info	{"srv-start": "server start ........."}
+2020-05-30 15:17:33.597	info	httpserver/publish.go:15	info	{"data": "{\"name\":\"zhangsan\",\"age\":90,\"addr\":\"我来自深圳\"}"}
+2020-05-30 15:17:49.476	info	log/log.go:76	修改日志等级:  info => debug

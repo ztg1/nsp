@@ -1,0 +1,12 @@
+{
+  "http_serverc": {
+      "addr": ":8090"
+  },
+  "web_socketc": {
+    "addr": ":8091",
+    "path": "/ws"
+  },
+  "ips": ["127.0.0.1","113.91.42.134"],
+  "debug": true
+}
+
